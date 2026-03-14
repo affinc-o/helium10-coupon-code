@@ -574,6 +574,6 @@ section { padding: 5rem 0; }
   .badges-grid   { grid-template-columns: 1fr 1fr; }
   .footer-grid   { grid-template-columns: 1fr; }
   .author-card   { flex-direction: column; align-items: center; text-align: center; }
-  .coupon-row    { flex-wrap: wrap; }
+  .coupon-row    { flex-direction: column; }
   .about-grid    { grid-template-columns: 1fr; }
 }
