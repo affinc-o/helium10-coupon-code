@@ -163,7 +163,7 @@ img { max-width: 100%; display: block; }
 
 /* ── HERO ── */
 .hero {
-  min-height: 100vh; display: flex; align-items: center; justify-content: center;
+  min-height: auto; display: flex; align-items: center; justify-content: center;
   position: relative; overflow: hidden; padding: 100px 1.5rem 60px;
   background: linear-gradient(135deg, #0a1a14 0%, var(--green-dark) 40%, #1a2f28 100%);
 }
